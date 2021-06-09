@@ -1,4 +1,15 @@
 # Plotly
+Web System with georeferenced data, the framework used was Dash/Plotly
+
+The map show altitude data.
+
+The installation of Dash and Panda is necessary, `pip install dash` e `pip install panda`. Those libraries seems to have some kind of incompatibility with Windows, if you find any problems with runnig the code, try it in a Linux system, in both virtual machine and Dual Boot.
+
+Execute the `python app.py` command, you will be redirected to the map web page, there are missing a few data from a few areas because the source does not contain them.
+
+_____________________________________________________________________________________
+
+
 Sistema Web com dados georeferenciados, framework usado foi o dash/plotly
 
 Os dados são da altitude.
